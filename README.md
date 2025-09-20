@@ -66,3 +66,7 @@ CREATE TABLE usuarios (
 
 
 [README.md](https://github.com/user-attachments/files/22447651/README.md)
+
+Abra o Terminal integrado do VSCode dentro da pasta src/.
+
+javac -d ../bin -cp ".;../lib/mysql-connector-j-9.4.0.jar" Main.java
