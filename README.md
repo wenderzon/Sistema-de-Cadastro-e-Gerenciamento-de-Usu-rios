@@ -1,4 +1,4 @@
-# Sistema-de-Cadastro-e-Gerenciamento-de-Usu-rios
+# Sistema-de-Cadastro-e-Gerenciamento-de-Usuarios
 # 🖥️ Sistema de Cadastro de Usuários em Java
 
 Este projeto é um sistema de cadastro de usuários desenvolvido em **Java + MySQL**, com funcionalidades avançadas de segurança, interatividade e CRUD completo. Foi estruturado para rodar no **VSCode**, utilizando **MySQL Connector/J 9.4.0**.
